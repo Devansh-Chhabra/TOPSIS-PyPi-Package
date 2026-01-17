@@ -1,0 +1,9 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Distribution / Build junk
+dist/
+build/
+*.egg-info/
+.venv/
