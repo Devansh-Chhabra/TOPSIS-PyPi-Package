@@ -18,7 +18,7 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/Devansh-Chhabra/TOPSIS-Multiple-Criteria-Decision-Making"
+"Homepage" = "https://github.com/Devansh-Chhabra/TOPSIS-PyPi-Package"
 
 [project.scripts]
 topsis = "topsis:main"
