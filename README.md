@@ -2,8 +2,8 @@
 
 > **A Python library for Multiple Criteria Decision Making (MCDM) using TOPSIS**
 
-[![PyPI version](https://img.shields.io/pypi/v/topsis-devansh-102218052.svg)](https://pypi.org/project/topsis-devansh-102218052/)
-[![Python Version](https://img.shields.io/pypi/pyversions/topsis-devansh-102218052.svg)](https://pypi.org/project/topsis-devansh-102218052/)
+[![PyPI version](https://img.shields.io/pypi/v/TOPSIS-Devansh-102317041.svg)](https://pypi.org/project/TOPSIS-Devansh-102317041/)
+[![Python Version](https://img.shields.io/pypi/pyversions/TOPSIS-Devansh-102317041.svg)](https://pypi.org/project/TOPSIS-Devansh-102317041/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -13,6 +13,7 @@
 **TOPSIS-Devansh-102317041** is a Python package that implements the **Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)** method for solving Multiple Criteria Decision Making (MCDM) problems.
 
 This package simplifies the process of ranking alternatives based on multiple criteria
+
 ---
 
 ## 🧠 What is TOPSIS?
@@ -32,7 +33,7 @@ The alternative closest to the ideal best and farthest from the ideal worst is r
 Install the package using pip:
 
 ```bash
-pip install topsis-devansh-102218052
+pip install Topsis-Devansh-102317041
 ```
 
 ---
@@ -154,6 +155,6 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 
 **Devansh Chhabra**  
-📧 Email: [dchhabra_be22@thapar.edu](mailto:dchhabra_be22@thapar.edu)  
+📧 Email: [devanshchhabr@gmail.com](mailto:devanshchhabr@gmail.com)  
 
 ---
