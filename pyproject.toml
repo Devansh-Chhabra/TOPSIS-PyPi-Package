@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Topsis-Devansh-102317041"
-version = "0.0.3"
+version = "2.0"
 authors = [
   { name="Devansh Chhabra", email="devanshchhabr@gmail.com" },
 ]
