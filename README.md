@@ -6,6 +6,10 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/TOPSIS-Devansh-102317041.svg)](https://pypi.org/project/TOPSIS-Devansh-102317041/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+🔗 *PyPi Package:* [Click here to view](https://pypi.org/project/Topsis-Devansh-102317041/)
+
+🔗 *Web Service:* [Click here to view](https://github.com/Devansh-Chhabra/TOPSIS-WEB-SERVICE)
+
 ---
 
 ## 🎯 Overview
